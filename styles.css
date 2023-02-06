@@ -1,0 +1,25 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: bold;
+    color: gray;
+}
+
+button {
+    font-size: 25px;
+    width: 150px;
+    background-color: red;
+    border-radius: 15px;
+}
